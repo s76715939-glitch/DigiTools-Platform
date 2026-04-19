@@ -1,0 +1,89 @@
+[{
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with customizable templates and ATS optimization.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "resume"
+  },
+  {
+    "id": 2,
+    "name": "TaskFlow Premium",
+    "description": "A productivity app for managing tasks, projects, and team collaboration.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Kanban boards", "Team chat", "Deadline reminders"],
+    "icon": "task"
+  },
+  {
+    "id": 3,
+    "name": "DesignKit Studio",
+    "description": "All-in-one design toolkit with templates, stock assets, and export options.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["500+ design templates", "Stock photos", "Vector export"],
+    "icon": "design"
+  },
+  {
+    "id": 4,
+    "name": "CodeLearn Academy",
+    "description": "Interactive coding lessons with real-time feedback and projects.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Hands-on projects", "Quizzes", "Certificate of completion"],
+    "icon": "code"
+  },
+  {
+    "id": 5,
+    "name": "Finance Tracker Plus",
+    "description": "Track expenses, set budgets, and visualize financial goals.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Expense categorization", "Budget alerts", "Goal tracking"],
+    "icon": "finance"
+  },
+  {
+    "id": 6,
+    "name": "LanguageMaster",
+    "description": "Learn new languages with AI-powered lessons and speech recognition.",
+    "price": 14,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Speech recognition", "Daily challenges", "Progress tracking"],
+    "icon": "language"
+  },
+  {
+    "id": 7,
+    "name": "PhotoFix Pro",
+    "description": "Advanced photo editing software with AI enhancements.",
+    "price": 24,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["AI retouching", "Background removal", "Filters & effects"],
+    "icon": "photo"
+  },
+  {
+    "id": 8,
+    "name": "MusicStream Unlimited",
+    "description": "Unlimited music streaming with curated playlists and offline mode.",
+    "price": 7,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Offline playback", "Curated playlists", "High-quality audio"],
+    "icon": "music"
+  }
+]

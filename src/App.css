@@ -1,0 +1,42 @@
+.ProductSection {
+  display: grid;
+  grid-template-columns: repeat(3, 350px);
+  gap: 10px;
+  justify-content: center;
+  margin: 40px auto;
+}
+.cardGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 350px);
+  justify-content: center;
+  gap: 20px;
+}
+@media screen and (max-width: 1160px) {
+  .cardGrid {
+    grid-template-columns: repeat(2, 350px);
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1110px) {
+  .ProductSection {
+    grid-template-columns: repeat(2, 350px);
+  }
+}
+@media screen and (max-width: 750px) {
+  .ProductSection {
+    grid-template-columns: 350px;
+  }
+  .cardGrid {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 465px) {
+  .myNav {
+    flex-direction: column;
+    width: 100%;
+  }
+  .ProductSection {
+    width: 90%;
+    grid-template-columns: 1fr;
+  }
+}
